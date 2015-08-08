@@ -20,10 +20,10 @@ https://github.com/openwrt-mirror/openwrt/blob/master/target/linux/generic/files
 
 After all the above is done, clone the repo:
 
-    git clone https://github.com/jekader/swconfig.git
+    git clone https://github.com/Bananian/swconfig.git
     cd swconfig
     bash build.sh
-    dpkg -i ../swconfig_15.04-1_armhf.deb
+    dpkg -i ../swconfig_15.08-1_armhf.deb
 
 USE:
 ----
